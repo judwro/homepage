@@ -2,7 +2,7 @@
 
 ## Demo version
 
-https://judwro.github.io/homepage/index.html
+https://judwro.github.io/homepage/Index.html
 
 ## Description
 
